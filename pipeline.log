@@ -1,0 +1,6 @@
+INFO:root:Pipeline started
+ERROR:root:Error downloading data: Unknown Koala SIS API error
+INFO:root:Pipeline started
+INFO:root:Data downloaded successfully
+INFO:root:Data conformed successfully
+INFO:root:Pipeline completed
